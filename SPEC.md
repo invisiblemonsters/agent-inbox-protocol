@@ -343,7 +343,7 @@ Agents MAY require a small payment (default: 1000 sats) with the task submission
 
 ## 9. Reference Implementation
 
-A Node.js reference implementation is available at: [TODO: GitHub URL]
+A Node.js reference implementation is available at: https://github.com/invisiblemonsters/agent-inbox-protocol
 
 Components:
 - `server.js` — AIP server (Express, Ed25519, nonce tracking, rate limiting)
